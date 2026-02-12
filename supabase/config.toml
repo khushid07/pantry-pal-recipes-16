@@ -1,0 +1,4 @@
+project_id = "edpcdxmmsryskaxducyq"
+
+[functions.generate-recipes]
+verify_jwt = false
